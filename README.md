@@ -33,8 +33,8 @@ It has different sections like About the Founder and Why should people choose th
  <h2>Count down for special Offers</h2>
  <p>In this we mention the limited offers for the varities and we have set the countdown.</p>
  ![2024-02-13 (6)](https://github.com/YAMUNA0403/FOOD-COURT/assets/155550143/69e9dee9-eaf7-42cc-b8d8-36312ff9917d)
- <br>
- <h2>diplaying the sliding form in which it contains the email and phonenumber for signing up for discounts in which it is displayed after opening of the website for 15 seconds.</h2>
+ <br><br>
+ <h4>diplaying the sliding form in which it contains the email and phonenumber for signing up for discounts in which it is displayed after opening of the website for 15 seconds.</h4>
  ![2024-02-13 (2)](https://github.com/YAMUNA0403/FOOD-COURT/assets/155550143/d400a298-8bd8-4c82-aa4a-c259dae44cd7)
 
  <h2>Footer section</h2>
